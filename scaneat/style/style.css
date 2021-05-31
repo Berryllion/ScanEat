@@ -37,3 +37,7 @@ input, button {
   padding: 0;
   margin: 0;
 }
+
+div, header {
+  box-sizing: border-box;
+}
